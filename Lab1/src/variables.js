@@ -1,0 +1,10 @@
+var firstName = 'Max';
+var age = 30;
+var isSaved = false;
+var city = null;
+var inputElement = 5;
+var inputElement1 = null;
+var inputElement2 = 'some value';
+var numbers = [1, 2, 3, 4];
+var words = ['hello', 'world'];
+console.log(firstName, age, isSaved, inputElement, inputElement1, inputElement2, city, numbers, words);
