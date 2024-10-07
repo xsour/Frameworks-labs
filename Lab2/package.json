@@ -1,5 +1,5 @@
 {
-  "name": "laba2framework",
+  "name": "lab2",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,6 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "typescript": "^5.5.4"
+    "typescript": "^5.6.2"
   }
 }
