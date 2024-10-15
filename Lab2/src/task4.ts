@@ -49,7 +49,6 @@ class Manager extends Employee implements Payable {
     }
 }
 
-// Демонстрація використання
 const employees: Employee[] = [
     new Developer('Іван', 28, 50000),
     new Developer('Марія', 32, 60000),

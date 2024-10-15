@@ -76,7 +76,6 @@ class Triangle implements Shape {
     }
 }
 
-// Демонстрація використання
 const shapes: Shape[] = [
     new Circle(5),
     new Rectangle(4, 6),
@@ -85,7 +84,6 @@ const shapes: Shape[] = [
     new Rectangle(10, 2)
 ];
 
-// Масштабуємо всі фігури на 2
 shapes.forEach(shape => shape.scale(2));
 
 let totalArea = 0;

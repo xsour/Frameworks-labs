@@ -1,7 +1,7 @@
 
 interface Course {
     name: string;
-    duration: number; // в годинах
+    duration: number;
     students: string[];
 }
 
